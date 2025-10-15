@@ -26,4 +26,6 @@ else:
     resultado = "Erro: Operação inválida!"  
 
 print("Resultado:", resultado)
+
+
 # --- IGNORE ---

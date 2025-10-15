@@ -11,4 +11,5 @@ media = (nota1 + nota2 + nota3) / 3
 # Exibe a média
 print(f"A média das notas é: {media:.2f}")
 
-# --- IGNORE ---
+
+# --- IGNORE ----

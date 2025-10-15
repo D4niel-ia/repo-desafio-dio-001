@@ -7,4 +7,6 @@ quantidade = int(input("Digite um número inteiro: "))
 
 # Retorna a string repetida o número de vezes informado, separada por espaço
 print((texto + " ") * quantidade)
+
+
 # ...existing code...

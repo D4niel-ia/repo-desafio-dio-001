@@ -8,3 +8,4 @@ resultado = dado1 + " " + dado2
 
 print("Dados concatenados:", resultado)
 
+# --- IGNORE ---
