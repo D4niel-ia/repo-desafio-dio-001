@@ -4,6 +4,7 @@
 ### Exercícios realizados
 
 **1 - Concatenando Dados**
+
 Receber dois dados diferentes do usuário e concatena-los em uma única string:
 
 -- <ins>Conceitos e aprendizados</ins>:
@@ -13,6 +14,7 @@ Receber dois dados diferentes do usuário e concatena-los em uma única string:
 - Utilização eficiente do Github Copilot
 
 **2 - Repetindo Textos**
+
 Solicitar uma string e um número inteiro como entrada. Depois que retornar a string repetida o número de vezes informado.
 
 -- <ins>Conceitos e aprendizados</ins>:
@@ -23,6 +25,7 @@ Solicitar uma string e um número inteiro como entrada. Depois que retornar a st
 - Aproveitar as sugestões do Github Copilot
 
 **3 - Operações Matemáticas Simples**
+
 Solicitar como entrada dois números e depois vamos realizar uma operação simples entre eles.
 
 -- <ins>Conceitos e aprendizados</ins>:
@@ -31,6 +34,7 @@ Solicitar como entrada dois números e depois vamos realizar uma operação simp
 - Utilização eficiente do Github Copilot
 
 **4 - Verificando Números Pares e Ímpares**
+
 Como entrada, receba um número inteiro e verifique se ele é par ou ímpar. Utilizado condicionais para realizar a verificação e uso do Github Copilot para otimizar a estrutura do código.
 
 -- <ins>Conceitos e aprendizados</ins>:
@@ -39,6 +43,7 @@ Como entrada, receba um número inteiro e verifique se ele é par ou ímpar. Uti
 - Exploração do uso de uma ferramenta de IA, como o Github Copilot, para otimizar a estrutura do código.
 
 **5 - Calculando Média de Notas**
+
 Calcular a média de três notas fornecidas na entrada do usuário. Utilizado operadores aritméticos para realizar o cálculo da média.
 
 -- <ins>Conceitos e aprendizados</ins>:
@@ -47,6 +52,7 @@ Calcular a média de três notas fornecidas na entrada do usuário. Utilizado op
 - Prática na solicitação e manipulação de entrada do usuário.
 
 **6 - Verificando Palíndromos**
+
 Testar se uma palavra é um palíndromo. 
 Utilizado conceitos de manipulação de strings para inverter a palavra e comparar com a original.
 
