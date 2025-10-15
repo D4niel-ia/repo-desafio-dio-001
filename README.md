@@ -1,7 +1,5 @@
-# Repositório para cumprimento do desafio DIO
-
-## Resolvendo Códigos em Python com o Github Copilot
-### Exercícios realizados
+# Resolvendo Códigos em Python com o Github Copilot
+## Exercícios realizados
 
 **1 - Concatenando Dados**
 
@@ -62,5 +60,6 @@ Utilizado conceitos de manipulação de strings para inverter a palavra e compar
 - Compreensão de como comparar a string original com sua versão invertida para determinar se é um palíndromo.
 - Introdução ao conceito de palíndromos e sua aplicação em problemas de programação.
 
-Tecnologias utilizadas: Python
-IA Generativa: Github Copilot
+<ins>Tecnologias utilizadas:</ins> Python
+
+<ins>IA Generativa:</ins> Github Copilot
